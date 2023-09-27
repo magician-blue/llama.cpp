@@ -1,6 +1,7 @@
 *.o
 *.a
 *.so
+*.sh
 *.gguf
 *.bin
 *.exe
@@ -10,6 +11,7 @@
 *.gcno
 *.gcda
 *.dot
+.gitignore
 .DS_Store
 .build/
 .cache/
